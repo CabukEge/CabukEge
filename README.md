@@ -19,7 +19,7 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CabukEge&hide=TeX&layout=compact)
 
-## ⚡ Technologies
+## ⚡ Languages
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> 
           
