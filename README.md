@@ -2,7 +2,7 @@
 
 I am Ege Cabuk, a computer science student at the university of Bonn and a software developer at interactive instruments.
 
-## 🔧 Tools & Technologies
+## 🔧 Tools
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
