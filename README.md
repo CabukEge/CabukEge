@@ -21,8 +21,7 @@ ___
 
 ## ⚡ Languages
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank">
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='40'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='40'/>  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='40'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c" width='40'/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank">
           
 
 
