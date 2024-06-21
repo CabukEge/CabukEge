@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ege Cabuk, a computer science student at the university of Bonn and a software developer at interactive instruments.
+I am Ege Cabuk, a computer science student at the University of Bonn and a software engineer at AISC GmbH.
 
 ## 🔧 Tools
 
