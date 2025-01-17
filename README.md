@@ -12,7 +12,6 @@ ___
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Woodpecker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Woodpecker)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CabukEge&langs_count=10&layout=compact&theme=merko&hide=CSS,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
