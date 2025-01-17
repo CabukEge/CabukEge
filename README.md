@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 I am Ege Cabuk, a computer science student at the University of Bonn.
-
-## 🔧 Tools
-
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
 ___
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -16,6 +11,7 @@ ___
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CabukEge&langs_count=10&layout=compact&theme=merko&hide=CSS,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
