@@ -1,6 +1,3 @@
-### Hi there 👋
-
-I am Ege Cabuk, a computer science student at the University of Bonn.
 ___
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
